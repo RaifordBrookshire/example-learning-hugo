@@ -4,3 +4,11 @@ title = "My New Hugo Site"
 publishDir = "docs" 
 
 theme="hugo-bare-min-theme"
+
+
+
+
+
+tags = ["minimal", "debug", "development"]
+features = []
+
